@@ -3,3 +3,6 @@ enetering in to git
 bye
 hi every one 
 good evening
+new branch has been added
+need to merge
+need to check all the commands once again
