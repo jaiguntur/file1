@@ -3,3 +3,4 @@ enetering in to git
 bye
 hi every one 
 good evening
+new commit
